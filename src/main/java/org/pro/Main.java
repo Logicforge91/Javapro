@@ -7,7 +7,7 @@ import java.util.Map;
 import java.lang.Thread;
 public class Main {
     private static int count = 0;
-    static void main() {
+    static void main() throws InterruptedException  {
         
         System.out.println("Hello and welcome Java!");
 
@@ -67,7 +67,7 @@ public class Main {
 //            System.out.println("Finally");
 //        }
 
-        throws InterruptedException {
+
 
            Thread t1 = new Thread(() -> {
                for(int i=0; i<1000; i++){
