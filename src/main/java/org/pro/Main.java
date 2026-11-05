@@ -7,6 +7,14 @@ public class Main {
         TextUtility.display(args);
         Stream.display(args);
         ArthException.display(args);
+        Collection.display(args);
+        Threads.display(args);
+        ExceptionHandling.display(args);
+        try {
+            Concurrency.display(args);
+        } catch (InterruptedException e) {
+            System.out.println("Concurrency execution was interrupted: " + e.getMessage());
+        }
 
     }
 }
