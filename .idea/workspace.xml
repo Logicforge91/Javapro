@@ -4,84 +4,98 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57cbe811-a3b3-47ae-bb3d-a108e887ee4e" name="Changes" comment="Initial commit" />
+    <list default="true" id="57cbe811-a3b3-47ae-bb3d-a108e887ee4e" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pro/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pro/Concurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pro/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pro/Threads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/pro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pro/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Logicforge91"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Logicforge91&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Logicforge91/Javapro.git",
-    "accountId": "f4dedcf1-9200-41d4-a533-994a0dfeea21"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Logicforge91/Javapro.git&quot;,
+    &quot;accountId&quot;: &quot;f4dedcf1-9200-41d4-a533-994a0dfeea21&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000124804327248" />
-      <entry key="MS500" value="1.1205888423777355" />
-      <entry key="S2" value="2.7933731181350394" />
-      <entry key="S5" value="6.319350907047237" />
-      <entry key="S10" value="10.281448076975005" />
-      <entry key="S30" value="16.055395164544272" />
-      <entry key="S60" value="18.288926386733692" />
-      <entry key="M2" value="19.678047244561306" />
-      <entry key="M5" value="24.176651918851224" />
-      <entry key="M10" value="37.69460405270839" />
-      <entry key="M15" value="51.438291323316754" />
-      <entry key="M30" value="79.30995597760068" />
-      <entry key="H1" value="103.3765622778453" />
-      <entry key="H2" value="119.42292444830518" />
-      <entry key="H4" value="128.7218347220212" />
-      <entry key="D1" value="137.21441762273622" />
-      <entry key="W1" value="138.74307727979075" />
+      <entry key="MS100" value="1.0000005660438938" />
+      <entry key="MS500" value="1.0976327615318426" />
+      <entry key="S2" value="1.9399101906782592" />
+      <entry key="S5" value="2.484859477360609" />
+      <entry key="S10" value="2.9798552416420447" />
+      <entry key="S30" value="7.377143408940802" />
+      <entry key="S60" value="14.291322458230805" />
+      <entry key="M2" value="24.259012003311476" />
+      <entry key="M5" value="41.67614721698337" />
+      <entry key="M10" value="63.633206547770165" />
+      <entry key="M15" value="84.71886887517998" />
+      <entry key="M30" value="136.6394692155422" />
+      <entry key="H1" value="203.54312954978323" />
+      <entry key="H2" value="269.03514371721946" />
+      <entry key="H4" value="318.00287675557803" />
+      <entry key="D1" value="371.5385847572511" />
+      <entry key="W1" value="382.1796174885509" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.937504327561381E-132" />
-      <entry key="S5" value="5.417666215386244E-53" />
-      <entry key="S10" value="1.2555681598436631E-26" />
-      <entry key="S30" value="6.902484590934444E-9" />
-      <entry key="S60" value="2.5166062978212745E-4" />
-      <entry key="M2" value="0.06106454201907197" />
-      <entry key="M5" value="2.493741478454635" />
-      <entry key="M10" value="10.977073398196957" />
-      <entry key="M15" value="18.93070342197838" />
-      <entry key="M30" value="33.68036538307233" />
-      <entry key="H1" value="45.49514395198605" />
-      <entry key="H2" value="53.05071392837774" />
-      <entry key="H4" value="57.33487226705765" />
-      <entry key="D1" value="61.19450893711958" />
-      <entry key="W1" value="61.88422417162754" />
+      <entry key="MS100" value="1.2816525347035463E-139" />
+      <entry key="MS500" value="1.6872250459621697E-28" />
+      <entry key="S2" value="1.6101991580310005E-7" />
+      <entry key="S5" value="0.0036608015164400595" />
+      <entry key="S10" value="0.12401291184231361" />
+      <entry key="S30" value="1.6369078380836857" />
+      <entry key="S60" value="3.884417202572386" />
+      <entry key="M2" value="7.418759076176369" />
+      <entry key="M5" value="15.119420156012332" />
+      <entry key="M10" value="25.49751093721823" />
+      <entry key="M15" value="34.450736493706614" />
+      <entry key="M30" value="54.499946284951484" />
+      <entry key="H1" value="80.00544020746771" />
+      <entry key="H2" value="105.68616909427953" />
+      <entry key="H4" value="125.26334703839153" />
+      <entry key="D1" value="146.92676307296801" />
+      <entry key="W1" value="151.2582591456733" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.05953990958097879" />
-      <entry key="MS500" value="0.6169440733375032" />
-      <entry key="S2" value="2.5134621806248405" />
-      <entry key="S5" value="6.157819341714909" />
-      <entry key="S10" value="10.172895580704896" />
-      <entry key="S30" value="16.004396057388583" />
-      <entry key="S60" value="18.26069741168616" />
-      <entry key="M2" value="19.722968702248927" />
-      <entry key="M5" value="26.644919392950538" />
-      <entry key="M10" value="48.62226717587572" />
-      <entry key="M15" value="70.31140373458544" />
-      <entry key="M30" value="112.93737690245732" />
-      <entry key="H1" value="148.83514315652658" />
-      <entry key="H2" value="172.4520560440717" />
-      <entry key="H4" value="186.0449689711454" />
-      <entry key="D1" value="198.4068270088445" />
-      <entry key="W1" value="200.62699784530253" />
+      <entry key="MS100" value="0.0018608695528453565" />
+      <entry key="MS500" value="0.3576180675551268" />
+      <entry key="S2" value="1.5978538514783982" />
+      <entry key="S5" value="2.321832362427575" />
+      <entry key="S10" value="2.9978326254522454" />
+      <entry key="S30" value="8.898048610045208" />
+      <entry key="S60" value="18.04966076430431" />
+      <entry key="M2" value="31.55336830252185" />
+      <entry key="M5" value="56.68829511947108" />
+      <entry key="M10" value="89.03422375526125" />
+      <entry key="M15" value="119.07762937165623" />
+      <entry key="M30" value="191.06014074978816" />
+      <entry key="H1" value="283.4871923852982" />
+      <entry key="H2" value="374.6796433142232" />
+      <entry key="H4" value="443.2411980056707" />
+      <entry key="D1" value="518.4604028826428" />
+      <entry key="W1" value="533.4371480856624" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -91,29 +105,39 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="3LgGKZnrXFwVvz4OHJ17pdA57Dq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/DELL/OneDrive/Desktop/Java/Javapro/src/main/java/org/pro/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/Java/Javapro/src/main/java/org/pro/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-IU-263.7307.200" />
       </set>
     </attachedChunks>
   </component>
@@ -133,16 +157,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/pro/Main.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
