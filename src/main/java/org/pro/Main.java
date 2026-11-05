@@ -15,6 +15,13 @@ public class Main {
         } catch (InterruptedException e) {
             System.out.println("Concurrency execution was interrupted: " + e.getMessage());
         }
+        FindDuplicates.display(args);
+        FirstNonRepeatingCharacter.display(args);
+        SecondHighest.display(args);
+        CommonElements.display(args);
+        CharacterFrequency.display(args);
+
+
 
     }
 }
